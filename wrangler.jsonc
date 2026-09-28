@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "hyperion",
+  "name": "yggdrasil",
   "assets": {
     "directory": "./public"
   },
